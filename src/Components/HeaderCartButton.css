@@ -1,0 +1,17 @@
+.cartButton {
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    border: none;
+    padding: 8px 13px 8px 13px;
+    background-color: goldenrod;
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cartQuantity {
+    margin-left: 5px;
+    font-size: larger;
+}
